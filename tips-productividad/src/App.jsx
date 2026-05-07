@@ -88,7 +88,7 @@ function VotarTip(){
 }
 
 return (
-  <div style={{ maxWidth: "500px", margin: "40px auto", fontFamily: "sans-serif" }}>
+  <div style={{ margin: "40px auto", fontFamily: "sans-serif" }}>
       <h1>💡 Tips de Productividad</h1>
 
       <TipActual
